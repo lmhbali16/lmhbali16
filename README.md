@@ -11,11 +11,11 @@
 
 [<img align="left" alt="Linkedin" width="50px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
 [<img align="left" alt="Reddit" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-<a align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" href="mailto:lmhoang.hv@gmail.com" />
+[<img align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 
   
 [linkedin]: https://www.linkedin.com/in/hoangml/
 [reddit]: https://www.reddit.com/user/lmhbali16
-
+[gmail]:mailto:lmhoang.hv@gmail.com
 
