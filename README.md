@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Linkedin" width="50px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
 [<img align="left" alt="Reddit" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-<img align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" href="mailto:lmhoang.hv@gmail.com" />
+<a align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" href="mailto:lmhoang.hv@gmail.com" />
 
 
   
