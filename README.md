@@ -9,6 +9,5 @@
 
 ### Connect with me:
 
-#[<img align="left" alt="Linkedin" width="22px"> src="https://www.flaticon.com/free-icon/linkedin_1409945?term=linkedin&page=1&position=5"]
+[<img align="left" alt="Linkedin" width="22px"> src="https://image.flaticon.com/icons/svg/1409/1409945.svg"]
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
