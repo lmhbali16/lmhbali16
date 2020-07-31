@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="22px"> src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
+[<img align="left" alt="Linkedin" width="22px"> src="https://www.w3schools.com/images/w3schools_green.jpg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/hoangml/
