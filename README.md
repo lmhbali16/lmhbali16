@@ -17,7 +17,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools*:
 
 <img align="left" alt="Python" width="50px" src="https://as1.ftcdn.net/jpg/02/69/37/40/500_F_269374043_29oWqzUTXIQ0Vxha9gLEiyInUAzvzRqr.jpg" />
 <img align="left" alt="R" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
@@ -34,7 +34,8 @@
 <br />
 <br />
 
-  
+\* Tools that I used at work are not included 
+
 [linkedin]: https://www.linkedin.com/in/hoangml/
 [reddit]: https://www.reddit.com/user/lmhbali16
 [gmail]:mailto:lmhoang.hv@gmail.com
