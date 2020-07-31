@@ -7,4 +7,6 @@
 - 🥅 Get an internship
 - :zap:Fun fact: I love football (soccer)
 
+### Connect with me:
 
+[<img align="left" alt="Linkedin" width="22px"> src="https://www.flaticon.com/free-icon/linkedin_1409945?term=linkedin&page=1&position=5"]
