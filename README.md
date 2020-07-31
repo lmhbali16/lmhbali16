@@ -13,7 +13,7 @@
 [<img align="left" alt="Reddit" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 [<img align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
-<br />
+<br>
 
 ### Experience with Languages and Tools:
 
