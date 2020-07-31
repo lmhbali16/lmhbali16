@@ -30,6 +30,10 @@
 <img align="left" alt="Jupyter Notebook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Android Studio" width="50px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 
+<br />
+<br />
+<br />
+
   
 [linkedin]: https://www.linkedin.com/in/hoangml/
 [reddit]: https://www.reddit.com/user/lmhbali16
