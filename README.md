@@ -34,7 +34,7 @@
 <br />
 <br />
 
-\* Tools that I used at work are not included 
+<sub>**\*Tools that I used at work are not included**</sub>
 
 [linkedin]: https://www.linkedin.com/in/hoangml/
 [reddit]: https://www.reddit.com/user/lmhbali16
