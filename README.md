@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on an Android App
 - 🌱 I’m currently learning Android development
 - 🥅 Get an internship
-- :zap:Fun fact: I love football (soccer)
+- :zap:Fun fact: I love football (soccer) and League of Legends
 
 ### Connect with me:  
 
