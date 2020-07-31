@@ -13,7 +13,9 @@
 [<img align="left" alt="Reddit" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 [<img align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
+### Languages and Tools:
 
+<img align="left" alt="Java" width="50px" src="https://image.flaticon.com/icons/svg/919/919854.svg" />
   
 [linkedin]: https://www.linkedin.com/in/hoangml/
 [reddit]: https://www.reddit.com/user/lmhbali16
