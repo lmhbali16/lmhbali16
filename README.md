@@ -14,6 +14,8 @@
 [<img align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 <br />
+<br />
+<br />
 
 ### Experience with Languages and Tools:
 
