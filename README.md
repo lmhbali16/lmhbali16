@@ -1,10 +1,10 @@
 ### Hi there, my name is Hoang! 👋
 
-## I am a CS student from Hungary who is Vietnamese!
+## I am a CS graduate from Hungary who is also Vietnamese!
 
-- 🔭 I’m currently working on an Android App
-- 🌱 I’m currently learning Android development
-- 🥅 Get an internship
+- 🔭 I’m currently working at a start-up company
+- 🌱 I’m currently learning Algorithms
+- 🥅 Get a graduate role
 - :zap:Fun fact: I love football (soccer) and League of Legends
 
 ### Connect with me:  
