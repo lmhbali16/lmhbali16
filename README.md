@@ -2,15 +2,14 @@
 
 ## I am a CS graduate from Hungary who is also Vietnamese!
 
-- 🔭 I’m currently working at a start-up company
-- 🌱 I’m currently learning Algorithms
-- 🥅 Get a graduate role
+- 🔭 I’m currently working at 9 network, a broadcasting and news media company in Australia
+- 🌱 I’m currently learning Algorithms and frontend
+- 🥅 For the next couple years, my goal is to learn as much as I can and enjoy Australia
 - :zap:Fun fact: I love football (soccer) and League of Legends
 
 ### Connect with me:  
 
 [<img align="left" alt="Linkedin" width="50px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
-[<img align="left" alt="Reddit" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 [<img align="left" alt="Gmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 <br />
@@ -37,6 +36,5 @@
 <sub>**\*Tools that I used at work are not included**</sub>
 
 [linkedin]: https://www.linkedin.com/in/hoangml/
-[reddit]: https://www.reddit.com/user/lmhbali16
 [gmail]:mailto:lmhoang.hv@gmail.com
 
