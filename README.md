@@ -3,8 +3,8 @@
 ## I am a CS graduate from Hungary who is also Vietnamese!
 
 - 🔭 I’m currently working at 9 network, a broadcasting and news media company in Australia
-- 🌱 I’m currently learning Algorithms and frontend
-- 🥅 For the next couple years, my goal is to learn as much as I can and enjoy Australia
+- 🌱 I’m currently learning algorithms and frontend
+- 🥅 For 2022, my goal is to finish my portfolio and be proficient in data structure and algoritms
 - :zap:Fun fact: I love football (soccer) and League of Legends
 
 ### Connect with me:  
