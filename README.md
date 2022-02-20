@@ -2,7 +2,7 @@
 
 ## I am a graduate software engineer from Hungary who is also Vietnamese!
 
-- 🔭 I’m currently working at 9 network, a broadcasting and news media company in Australia
+- 🔭 I’m currently working at Nine, a broadcasting and news media company in Australia
 - 🌱 I’m currently learning algorithms and frontend
 - 🏠 Currently living in Sydney, Australia
 - 🥅 For 2022, my goal is to finish my portfolio and be proficient in data structure and algoritms
