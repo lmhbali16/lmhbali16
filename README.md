@@ -1,6 +1,6 @@
 ### Hi there, my name is Hoang! 👋
 
-## I am a graduate software engineer from Hungary who is also Vietnamese!
+## I am a software engineer from Hungary who is also Vietnamese! Currently living in Sydney, Australia!
 
 - 🔭 I’m currently working at Nine, a broadcasting and news media company in Australia
 - 🌱 I’m currently learning algorithms and frontend
