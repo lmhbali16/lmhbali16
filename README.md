@@ -1,8 +1,8 @@
 ### Hi there, my name is Hoang! 👋
 
-## I am a software engineer from Hungary who is also Vietnamese! Currently living in Sydney, Australia!
+## I am a software engineer from Hungary who is also Vietnamese!
 
-- 🔭 I’m currently working at Nine, a broadcasting and news media company in Australia
+- 🔭 I’m currently working at Macquarie Group, a bank in Australia
 - 🌱 I’m currently learning algorithms and frontend
 - 🏠 Currently living in Sydney, Australia
 - 🥅 My goal is to continue working on some of my secret projects and be proficient in data structure and algoritms
