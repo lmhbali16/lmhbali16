@@ -34,5 +34,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/hoangml/
-[gmail]:mailto:lmhoang.hv@gmail.com
+[gmail]:mailto:hoang.le@culturedengineer.com
 
